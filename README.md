@@ -15,7 +15,7 @@ The project contains HTML, CSS, and JavaScript files that make up the website la
 
 sudo apt install nginx -y
 
-<img src=
+<img src="Screenshot 2025-11-22 173319.png 
 
 3. Start and enable NGINX
 
