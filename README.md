@@ -8,7 +8,7 @@ The project contains HTML, CSS, and JavaScript files that make up the website la
 
 1. **Update and upgrade the server**
    ```bash
-   sudo apt update -y && sudo apt upgrade -y
+   sudo apt update -y && sudo apt upgrade -y 
 <img src="Screenshot 2025-11-22 174010.png>
  
 2. Install NGINX
